@@ -33,6 +33,10 @@ And run with
 
     mpn run start
 
+### Saving
+
+To be able to save the model change the path on the save model method
+
 ## License
 
 This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
