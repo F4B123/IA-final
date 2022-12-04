@@ -54,7 +54,9 @@ Install the requirements
     cd /notebook
     pip install -r requirements.txt
 
-And run the notebook 
+And run 
+    
+    jupyter notebook 
 
 
 ## Authors
