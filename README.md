@@ -37,6 +37,14 @@ And run with
 
 To be able to save the model change the path on the save model method
 
+
+## Authors
+
+  - **David Núñez** 
+  - **Fabian Andrés Ruiz**
+  - **María Sol Botello**
+  - **Sofia Salinas Rico**
+
 ## License
 
 This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
