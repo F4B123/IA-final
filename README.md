@@ -45,9 +45,5 @@ To be able to save the model change the path on the save model method
   - **María Sol Botello**
   - **Sofia Salinas Rico**
 
-## License
 
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
 
