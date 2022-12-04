@@ -37,6 +37,25 @@ And run with
 
 To be able to save the model change the path on the save model method
 
+## Getting Started  (Notebook)
+
+
+### Prerequisites
+
+Requirements for the software and other tools to build, test and push 
+- [install juyter](https://jupyter.org/install)
+- install requirements
+
+### Installing
+
+
+Install the requirements
+
+    cd /notebook
+    pip install -r requirements.txt
+
+And run the notebook 
+
 
 ## Authors
 
