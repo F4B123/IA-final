@@ -9,7 +9,7 @@ El proyecto cuenta con los siguientes recursos:
 - link del video: [video](https://vimeo.com/777748127)
 - link notebook interactivo : [notebook](http://34.125.227.157:8080/notebooks/work/Predicci%C3%B3n%20del%20precio%20de%20NFT's%20.ipynb/?token=ecd742482430bd26924140ed338f1e1164a01e2414968da54bdf7fb76c63a74e)
 
-## Getting Started
+## Getting Started 
 
 These instructions will give you a copy of the project up and running on
 your local machine for development and testing purposes. See deployment
@@ -22,8 +22,6 @@ Requirements for the software and other tools to build, test and push
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development
-environment running
 
 Install the dependencies
 
@@ -32,12 +30,26 @@ Install the dependencies
 And run with 
 
     mpn run start
-
-### Saving
-
-To be able to save the model change the path on the save model method
+    
+## Getting Started  (Notebook)
 
 
+### Prerequisites
+
+Requirements for the software and other tools to build, test and push 
+- [install requirements](https://github.com/dnunezq/IA_Proyet_dp/blob/main/notebook/requirements.txt)
+
+### Installing
+
+
+Install the requirements
+
+    cd /notebook
+    pip install -r requirements.txt
+
+And run the notebook 
+
+    
 ## Authors
 
   - **David Núñez** 
@@ -45,5 +57,10 @@ To be able to save the model change the path on the save model method
   - **María Sol Botello**
   - **Sofia Salinas Rico**
 
+## License
+
+This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
+Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
+details
 
 
