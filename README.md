@@ -18,7 +18,7 @@ for notes on deploying the project on a live system.
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
-- [install npm](https://www.example.com](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- [install npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 ### Installing
 
